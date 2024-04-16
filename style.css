@@ -4,7 +4,7 @@
   font-family:sans-serif;
 }
 
-.banner{
+div.banner{
   width:100%;
   heigh:100vh;
   background-image:linear-gradient(rgba(0,0,0,0.75)(0,0,0,0.75)) url(background.jpeg);
